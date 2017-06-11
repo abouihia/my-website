@@ -12,3 +12,7 @@ this file is just a readme file
 
  this purpose of this file is to provide example
  on how to use Git and GitGuh together.
+ 
+ ## Getting started
+ 
+ To get started  with this section. Just 'clone'  this repository
